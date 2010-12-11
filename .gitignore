@@ -1,0 +1,6 @@
+*.class
+*.swp
+*.log
+lib_managed
+project/boot
+target
