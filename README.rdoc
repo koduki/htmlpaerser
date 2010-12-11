@@ -1,0 +1,14 @@
+= htmlparser.
+
+== DESCRIPTION:
+
+Processing real world HTML as if it were XML in scala.
+
+This code base 
+http://www.hars.de/2009/01/html-as-xml-in-scala.html
+
+Thank you!
+
+== BUILD:
+  % sbt 
+  > package 
